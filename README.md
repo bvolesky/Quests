@@ -1,4 +1,4 @@
-![Page](/src/assets/page.png)
+![Page](/src/assets/quests.gif)
 # Overview
 This to-do app harnesses the robust capabilities of React, a powerful web framework, to help you manage and track your tasks efficiently. With its persistent task tracking feature, this application ensures that your to-dos are saved and easily accessible, providing a reliable and user-friendly experience for managing your daily tasks.
 
