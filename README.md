@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+![Page](/src/assets/page.png)
+
+This to-do app harnesses the robust capabilities of React, a powerful web framework, to help you manage and track your tasks efficiently. With its persistent task tracking feature, this application ensures that your to-dos are saved and easily accessible, providing a reliable and user-friendly experience for managing your daily tasks.
+
+#Learnings:
+In this project, I ventured beyond my comfort zone by exploring React, a popular JavaScript library for building user interfaces. My journey with React was enlightening and challenging, as it pushed me to adapt to a new framework and its idiosyncrasies.
+
+One of the key learning experiences was dealing with React's Strict Mode, a tool for highlighting potential problems in an application. Initially, this led to some issues, but it ultimately proved invaluable in helping me achieve the vision I had for this project. The strict mode served as a guiding force, ensuring that my code adhered to best practices and was robust.
+
+The final outcome is a to-do list application that not only meets my initial expectations but also reflects the rich learning experience I gained through this project. This application is a testament to the growth and knowledge I've acquired in React, and I'm excited to apply these skills in future projects.
+
+# Usage
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
