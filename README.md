@@ -1,8 +1,8 @@
 ![Page](/src/assets/page.png)
-
+# Overview
 This to-do app harnesses the robust capabilities of React, a powerful web framework, to help you manage and track your tasks efficiently. With its persistent task tracking feature, this application ensures that your to-dos are saved and easily accessible, providing a reliable and user-friendly experience for managing your daily tasks.
 
-#Learnings:
+# Learnings
 In this project, I ventured beyond my comfort zone by exploring React, a popular JavaScript library for building user interfaces. My journey with React was enlightening and challenging, as it pushed me to adapt to a new framework and its idiosyncrasies.
 
 One of the key learning experiences was dealing with React's Strict Mode, a tool for highlighting potential problems in an application. Initially, this led to some issues, but it ultimately proved invaluable in helping me achieve the vision I had for this project. The strict mode served as a guiding force, ensuring that my code adhered to best practices and was robust.
